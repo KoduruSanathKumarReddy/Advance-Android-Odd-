@@ -234,14 +234,11 @@ public class DataBaseManager {
 </RelativeLayout>
 ~~~
 ## OUTPUT
-![](1.png)
+<img width="1440" alt="Screenshot 2023-06-07 at 6 00 40 PM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/2d683409-d512-4f1d-baf5-58f9ed704c4b">
 
-![](2.png)
+<img width="1440" alt="Screenshot 2023-06-07 at 6 00 37 PM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/6b6eeb8e-bc4f-4ed5-829a-4eabc813c1b0">
 
-![](3.png)
-
-![](4.png)
-
+<img width="1440" alt="Screenshot 2023-06-07 at 6 00 33 PM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/ee071b56-1d3a-4fb0-b12f-3875f6e11bd8">
 
 <img width="338" alt="Screenshot 2023-06-07 at 5 55 44 PM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/99097dab-1ebb-43cc-9909-eaf443e6cbcb">
 
