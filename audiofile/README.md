@@ -125,8 +125,11 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ~~~
 ## OUTPUT
+
 ![](1.png)
+
 ![](2.png)
+
 <img width="812" alt="p" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/be7da94e-0493-4d5a-bd9b-344acc02c240">
 
 
