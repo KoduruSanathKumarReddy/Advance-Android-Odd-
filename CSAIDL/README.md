@@ -183,8 +183,9 @@ interface MultiplyInterface {
 ## OUTPUT
 ![](1.png)
 ![](2.png)
-![](3.png)
-![](4.png)
+<img width="895" alt="Screenshot 2023-06-09 at 10 22 14 AM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/d1d55a06-ad75-4ee0-a2b7-f0a75d1fa10c">
+<img width="895" alt="Screenshot 2023-06-09 at 10 21 13 AM" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/8e6fe8fb-ff41-4fbf-b097-9bc928fcb345">
+
 
 
 
