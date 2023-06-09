@@ -126,9 +126,10 @@ public class MainActivity extends AppCompatActivity {
 ~~~
 ## OUTPUT
 
-![](1.png)
 
-![](2.png)
+<img width="1440" alt="image" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/9795862d-a636-44b9-9d79-931883206b89">
+
+<img width="1440" alt="image" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/8fdd31d5-b9c5-494e-a78e-76b669903a19">
 
 <img width="812" alt="p" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/be7da94e-0493-4d5a-bd9b-344acc02c240">
 
