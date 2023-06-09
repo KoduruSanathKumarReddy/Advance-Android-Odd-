@@ -96,7 +96,9 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![](1.png)
 ![](2.png)
-![](3.png)
+
+<img width="812" alt="image" src="https://github.com/KoduruSanathKumarReddy/Advance-Android-Odd-/assets/69503902/ffeae3de-d0f7-4bef-83a2-bb7a164b10f3">
+
 
 
 
